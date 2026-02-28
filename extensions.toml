@@ -2939,6 +2939,10 @@ version = "0.0.1"
 submodule = "extensions/playdate"
 version = "0.1.2"
 
+[please-build]
+submodule = "extensions/please-build"
+version = "0.1.0"
+
 [po]
 submodule = "extensions/po"
 version = "0.1.0"

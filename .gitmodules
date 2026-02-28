@@ -2902,6 +2902,10 @@
 	path = extensions/playdate
 	url = https://github.com/notpeter/playdate-zed-extension.git
 
+[submodule "extensions/please-build"]
+	path = extensions/please-build
+	url = https://github.com/michaelmccabe/please-build.git
+
 [submodule "extensions/po"]
 	path = extensions/po
 	url = https://git.disroot.org/gemmaro/zed-po.git
